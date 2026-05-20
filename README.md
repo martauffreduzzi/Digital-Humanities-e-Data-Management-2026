@@ -28,7 +28,7 @@ Il dataset utilizzato è stato precedentemente fornito durante il corso *Digital
 Il progetto è stato sviluppato in ambiente *Google Colab*, utilizzando il linguaggio di programmazione *Python*, con l'aiuto di *Google Gemini*. Sono state poi importate le librerie *Pandas* e *Matplotlib* per la manipolazione e la visualizzazione dei dati.
 Il progetto è stato poi caricato su repository *Zenodo*.
 
-DOI: [https://doi.org/10.5281/zenodo.20306217](https://doi.org/10.5281/zenodo.20306217)
+DOI: [https://doi.org/10.5281/zenodo.20307087](https://doi.org/10.5281/zenodo.20307087)
 
 
 ## Responsabili
