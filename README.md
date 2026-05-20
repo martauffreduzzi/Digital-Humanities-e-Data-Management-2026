@@ -3,20 +3,21 @@
 ## Descrizione
 Questo progetto analizza un dataset storico-artistico contenente dati su 2444 opere d'arte, organizzati in 12 variabili. 
 
-| Colonna         | Valore                                  |
-|:----------------|:----------------------------------------|
-| id              | http://www.wikidata.org/entity/q428274  |
-| titolo          | ritratto di fedra inghirami, detto fedra |
-| artisti         | raffaello sanzio (maschio)              |
-| generi          | ritratto                                |
-| luoghi          | galleria palatina                       |
-| collezioni      | galleria palatina                       |
-| contenuti       | libro; carta; scrittura; strabismo; posizione... |
-| movimenti       | alto rinascimento                       |
-| soggetti        | tommaso inghirami                       |
-| altezza         | 91.0                                    |
-| larghezza       | 61.0                                    |
-| years           | 1510.0                                  |
+| Colonna         | 
+|:----------------|
+| id              | 
+| titolo          | 
+| artisti         |
+| data_creazione  |
+| generi          |
+| luoghi          | 
+| collezioni      | 
+| contenuti       | 
+| movimenti       | 
+| soggetti        | 
+| altezza         | 
+| larghezza       | 
+| years           | 
 
  
 
