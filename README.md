@@ -19,6 +19,7 @@ Questo progetto analizza un dataset storico-artistico contenente dati su 2444 op
 | larghezza       | 
 
 
+
 A seguito di una prima analisi e pulizia dati, sono emerse curiosità che sono state poi indagate attraverso manipolazione ed estrazione dati. Una ricerca incrociata tra generi e picchi cronologici ha evidenziato anomalie dovute presumibilmente alla catalogazione dei dati in input. Ci si è poi concentrati sul genere 'ritratto' per estrarne l'artista più prolifico. Tiziano risulta essere, nel dataframe preso in considerazione, il ritrattista più prolifico dal 1086 al 2016. Questo dato, in correlazione a un valore nullo piuttostosto significativo, ha sollevato altre domande. Combinando i dati estratti da tale ricerca e le conoscenze storico-artistiche pregresse si è scelto di indagare meglio su eventuali mancanze del dataframe. Sono emerse importanti lacune di dati.
 
 ## Fonti
