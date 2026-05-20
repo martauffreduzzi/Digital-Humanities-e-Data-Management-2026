@@ -1,2 +1,7 @@
 # Dati ritratti
 ## *Tiziano* VS nan
+
+## Descrizione
+Questo progetto analizza un dataset storico-artistico di 2444 opere d'arte; a seguito di una prima analisi sono emerse curiosità che sono state poi indagate attraverso la manipolazione dei dati. Una ricerca incrociata tra generi e picchi cronologici ha evidenziato anomalie dovute presumibilmente alla catalogazione dei dati in input. Ci si è poi concentrati sul genere ritratto per estrarne l'artista più prolifico. Tiziano risulta essere nel nostro dataframe il ritrattista più prolifico dal 1086 al 2016. Questo dato, in correlazione a un valore nullo piuttostosto significativo, ha sollevato altre domande. Combinando i dati estratti da tale ricerca e le conoscenze storico-artistiche pregresse si è voluto indagare su eventuali mancanze del dataframe; sono emerse importanti lacune di dati.
+## Fonti
+Il dataset utilizzato è stato precedentemente fornito durante il corso Digital Humanities e Data Management dell'Università di Bologna, tramite seguente link [https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/data.csv](https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/data.csv)
