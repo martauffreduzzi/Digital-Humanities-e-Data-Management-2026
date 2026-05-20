@@ -1,6 +1,5 @@
-# Dati 'ritratti'
-# *Tiziano* VS **NaN** 
-_________________________
+# Dati 'ritratti' : *Tiziano* VS **NaN** 
+
 ## Descrizione
 Questo progetto analizza un dataset storico-artistico contenente dati su 2444 opere d'arte, organizzati in 12 variabili. 
 
