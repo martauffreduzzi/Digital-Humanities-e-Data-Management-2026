@@ -17,9 +17,6 @@ Questo progetto analizza un dataset storico-artistico contenente dati su 2444 op
 | soggetti        | 
 | altezza         | 
 | larghezza       | 
-| years           | 
-
- 
 
 
 A seguito di una prima analisi e pulizia dati, sono emerse curiosità che sono state poi indagate attraverso manipolazione ed estrazione dati. Una ricerca incrociata tra generi e picchi cronologici ha evidenziato anomalie dovute presumibilmente alla catalogazione dei dati in input. Ci si è poi concentrati sul genere 'ritratto' per estrarne l'artista più prolifico. Tiziano risulta essere, nel dataframe preso in considerazione, il ritrattista più prolifico dal 1086 al 2016. Questo dato, in correlazione a un valore nullo piuttostosto significativo, ha sollevato altre domande. Combinando i dati estratti da tale ricerca e le conoscenze storico-artistiche pregresse si è scelto di indagare meglio su eventuali mancanze del dataframe. Sono emerse importanti lacune di dati.
@@ -29,6 +26,9 @@ Il dataset utilizzato è stato precedentemente fornito durante il corso *Digital
 
 ## Metodi e strumenti
 Il progetto è stato sviluppato in ambiente *Google Colab*, utilizzando il linguaggio di programmazione *Python*, con l'aiuto di *Google Gemini*. Sono state poi importate le librerie *Pandas* e *Matplotlib* per la manipolazione e la visualizzazione dei dati.
+Il progetto è stato poi caricato su repository *Zenodo*.
+DOI: [https://doi.org/10.5281/zenodo.20306217](https://doi.org/10.5281/zenodo.20306217)
+
 
 ## Responsabili
 Marta Uffreduzzi
